@@ -13,3 +13,4 @@ Your draft is stored in the browser's local storage on the current device. It is
 The included GitHub Actions workflow deploys the site to GitHub Pages when changes are pushed to `main`. After the first successful deployment, the site will be available at:
 
 https://ssai7955433-crypto.github.io/AI-Resume/
+file:///D:/sai%20python/rag_workshop/AI-Resume/index.html#home
